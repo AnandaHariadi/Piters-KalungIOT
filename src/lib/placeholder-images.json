@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "piters-mascot",
+      "description": "PITERS mascot in East Javanese traditional attire",
+      "imageUrl": "https://picsum.photos/seed/piters-mascot/400/400",
+      "imageHint": "cartoon mascot Javanese"
+    },
+    {
+      "id": "health-profile",
+      "description": "User profile placeholder image",
+      "imageUrl": "https://picsum.photos/seed/health-user/200/200",
+      "imageHint": "person health"
+    }
+  ]
+}
